@@ -8,7 +8,7 @@ phases:
             - echo "installing something"
     pre_build:
         commands: 
-            - echo "pre build phase12"
+            - echo "pre build phase12 checking the jenkins"
     build:
         commands:
             - echo "we will run some tests and build"
